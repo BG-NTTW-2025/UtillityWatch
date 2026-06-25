@@ -1,5 +1,5 @@
 body{font-family:Arial;background:#20242b;color:#fff;margin:0}
-header{display:flex;justify-content:space-between;background:#313844;padding:18px}
+header{display:flex;justify-content:space-between;background:#313844;padding:1px}
 nav{display:flex;gap:8px;padding:12px;flex-wrap:wrap}
 button{background:#2d7ef7;color:#fff;border:0;border-radius:6px;padding:10px 14px;cursor:pointer}
 button.active{background:#0c5ad0}

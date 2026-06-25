@@ -1,0 +1,8 @@
+Utility Watch v0.4.0
+
+Nieuw:
+- Bewaking bewerken
+- Volledige kaartinformatie
+- Straat en huisnummer zichtbaar
+- Annuleren tijdens bewerken
+- Verbeterde kaarten

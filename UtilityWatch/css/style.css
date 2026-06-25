@@ -1,0 +1,13 @@
+body{font-family:Arial;background:#20242b;color:#fff;margin:0}
+header{display:flex;justify-content:space-between;background:#313844;padding:18px}
+nav{display:flex;gap:8px;padding:12px;flex-wrap:wrap}
+button{background:#2d7ef7;color:#fff;border:0;border-radius:6px;padding:10px 14px;cursor:pointer}
+button.active{background:#0c5ad0}
+.page{padding:20px}
+.form{max-width:520px}
+label{display:block;margin-top:10px}
+input,select{width:100%;padding:8px;margin-top:3px}
+.card{background:#303640;border-radius:8px;padding:12px;margin:12px 0;border-left:5px solid #2d7ef7}
+.small{color:#cfd5df;font-size:.9em}
+.actions{margin-top:10px}
+.actions button{margin-right:8px}
